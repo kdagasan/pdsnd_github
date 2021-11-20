@@ -7,7 +7,7 @@
 bikeshare project
 
 ### Description
-Describe what your project is about and what it does
+it analyze records of bike usaga in 3 cities
 
 ### Files used
 Include the files used
