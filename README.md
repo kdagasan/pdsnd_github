@@ -1,5 +1,3 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
 ### Date created
 20.11.2021
 
@@ -13,5 +11,10 @@ it analyze records of bike usaga in 3 cities
 chicago.csv, new_york_city.csv, washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://pandas.pydata.org/docs/reference/api/pandas.DatetimeIndex.dayofweek.html
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.mod.html
+https://www.marsja.se/pandas-convert-column-to-datetime/
+https://stackoverflow.com/questions/25129144/pandas-return-hour-from-datetime-column-directly/30717361
+https://www.codegrepper.com/code-examples/python/add+letters+to+string+python
+https://stackoverflow.com/questions/55719762/how-to-calculate-mode-over-two-columns-in-a-python-dataframe
 
